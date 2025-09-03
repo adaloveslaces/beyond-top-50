@@ -1,0 +1,6 @@
+- Tutorial on how to call Spotify API: https://youtu.be/WAmEZBEeNmg?si=CB17nEbq46TgTgj0
+- ChatGPT (OpenAI)
+  - debug Python scripts for fetching data from Spotify playlists and Last.fm charts by asking questions
+  - help plan data cleaning steps, such as handling duplicates and selecting key columns
+  - familiarize me with pandas and matplotlib by asking questions
+  - helped confirm and add complexity to data analysis (e.g. proposing genre trends from visualizations, then asking for quality improvement and confirmation of insights

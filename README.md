@@ -4,3 +4,4 @@
   - help plan data cleaning steps, such as handling duplicates and selecting key columns
   - familiarize me with pandas and matplotlib by asking questions
   - helped confirm and add complexity to data analysis (e.g. proposing genre trends from visualizations, then asking for quality improvement and confirmation of insights
+  - help with data sources documentation specs
